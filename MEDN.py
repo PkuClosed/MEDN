@@ -42,14 +42,11 @@ masknames = None
 icvfnames = None
 isonames = None
 odnames = None
-pevnames = None
 directory = None
-trained = None
 
 dwiname = None
 maskname = None
 modelname = None
-pevname = None
     
 nLabels = 3 # ICVF, ISO, and OD
 if len(sys.argv) == 9:
