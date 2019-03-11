@@ -21,4 +21,4 @@ and
 For example, <br />
 >python MEDN.py dwis_training.txt masks_training.txt icvfs_training.txt isos_training.txt ods_training.txt dwis_test.txt masks_test.txt output
 
-For more questions, please contact me via chuyang.ye@nlpr.ia.ac.cn or pkuclosed@gmail.com
+For more questions, please contact me via chuyang.ye@bit.edu.cn or pkuclosed@gmail.com
