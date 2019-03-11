@@ -1,7 +1,7 @@
 # MEDN 
 
 This is a python demo for the paper:<br />
-**Chuyang Ye, "Estimation of Tissue Microstructure Using a Deep Network Inspired by a Sparse Reconstruction Framework", IPMI 2017.** and its extended version that is under review.
+**Chuyang Ye, "Estimation of Tissue Microstructure Using a Deep Network Inspired by a Sparse Reconstruction Framework", IPMI 2017.** and its extended version **Chuyang Ye, "Tissue Microstructure Estimation Using a Deep Network Inspired by a Dictionary-Based Framework", MedIA 2017.**
 
 The demo includes both the training and test phase. Therefore, to run it, both the training and test data (which are images in the NIfTI format) should be prepared. The input diffusion signals should be normalized.
 
